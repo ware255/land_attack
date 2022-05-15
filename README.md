@@ -1,2 +1,8 @@
 # land_attack
-https://ja.wikipedia.org/wiki/Land%E6%94%BB%E6%92%83
+ここからコピーやで(ちょっとコンパイルに失敗したから修正)
+https://insecure.org/sploits/land.ip.DOS.html
+
+## コンパイル
+```
+gcc land.c -o land
+```
